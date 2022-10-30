@@ -10,6 +10,7 @@
 <hr>
 <p>
 러쉬 코리아 클론 코딩, 다양한 향으로 피로를 풀어주는 현대인의 필수품으로 자리잡고 있음! WESH 팀도 현대인의 필수품처럼 어딜가나 멋있는 사람이 되기를 바라는 마음으로!!<p>
+<h2>시연영상
 <a href="https://www.youtube.com/watch?v=w0MkqnhkV_0&ab_channel=%EA%B7%9C%ED%9D%A0%EC%B5%9C">#Wesh 시연영상</a>
 
 <h2>
