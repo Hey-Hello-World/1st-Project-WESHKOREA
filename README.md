@@ -15,39 +15,22 @@
 <h2> 개발 인원 및 기간 </h2>
 - 개발기간 : 2022/10/17 ~ 2022/10/27<br>
 - 개발 인원 : FE 3명 BE 3명
-<h2>팀원 소개</h2>
+<h2>
+팀원 소개</h2>
+<hr>
 <p>
 <h2>Front-End</h2>
-<div align="center">
-<span>
-<img src="https://ca.slack-edge.com/TH0U6FBTN-U03RJQ96QLW-7ac928fc3041-512" width="150"/>
-<span>전관훈</span>
-	</span>
-<span>
-<img src="https://ca.slack-edge.com/TH0U6FBTN-U03RNE8CEAZ-a966fdbd4437-512" width="150"/>
-	<span>이다영</span>
-	</span>
-<span>
-<img src="https://ca.slack-edge.com/TH0U6FBTN-U02JS0GA200-80f9f055b2ce-512" width="150"/>
-	<span>최규흠</span>
-	</span>
-	<p> 프론트 엔드의 코드를 구경하고 싶다면? <br>
-		https://github.com/wecode-bootcamp-korea/38-1st-WESH-Korea-frontend<br>
-</div>
-<h2>Back-End</h2>
-<p>
 
-<div align="center"><span>
-<img src="https://ca.slack-edge.com/TH0U6FBTN-U03RTREAL2Y-135ccfc8656d-192" width="150"/><span>정재욱</span>
-	</span>
-<span>
-<img src="https://ca.slack-edge.com/TH0U6FBTN-U03SN2AQSG0-a531900c2ab1-512" width="150"/><span>심채원</span>
-	</span>
-<span>
-<img src="https://ca.slack-edge.com/TH0U6FBTN-U03RARFV7B9-e7d6ecc835f7-512" width="150"/><span>김성훈</span>
-	</span>
-<span>
-	</div>
+| <img src="https://ca.slack-edge.com/TH0U6FBTN-U03RJQ96QLW-7ac928fc3041-512" width="150"/> | <img src="https://ca.slack-edge.com/TH0U6FBTN-U03RNE8CEAZ-a966fdbd4437-512" width="150"/> | <img src="https://ca.slack-edge.com/TH0U6FBTN-U02JS0GA200-80f9f055b2ce-512" width="150"/> |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|                                          정관훈                                           |                                          이다영                                           |                                          최규흠                                           |
+
+<p>
+<h2>Back-End</h2>
+
+| <img src="https://ca.slack-edge.com/TH0U6FBTN-U03RTREAL2Y-135ccfc8656d-192" width="150"/> | <img src="https://ca.slack-edge.com/TH0U6FBTN-U03SN2AQSG0-a531900c2ab1-512" width="150"/> | <img src="https://ca.slack-edge.com/TH0U6FBTN-U03RARFV7B9-e7d6ecc835f7-512" width="150"/> |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|                                          정재욱                                           |                                          심채원                                           |                                          김성훈                                           |
 
 <p>
 
@@ -108,3 +91,7 @@ https://dbdiagram.io/d/634d0ba3f0018a1c5f195436
 
 <h2>일정관리(Trello)</h2>
 <img src="https://user-images.githubusercontent.com/93311025/198531282-38d4d613-96be-483d-99f9-b2cdd4ede4e6.png">
+
+<h2>기타</h2> 
+<hr>
+* 본 작품은 교육을 목적으로 만들어 졌습니다.
